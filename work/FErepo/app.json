@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/luckDraw/index",
+    "pages/form/index",
+    "pages/result/index",
+    "pages/detail/index"
+  ],
+  "window": {
+    "defaultTitle": "抽奖"
+  }
+}
